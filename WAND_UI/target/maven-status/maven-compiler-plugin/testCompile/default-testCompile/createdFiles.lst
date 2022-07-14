@@ -1,0 +1,4 @@
+testRunner\stepDefinitions\MSPProjectBilling.class
+testRunner\RunnerLocalTest.class
+testRunner\stepDefinitions\CommonStepDefinitions.class
+testRunner\stepDefinitions\PreStep.class
