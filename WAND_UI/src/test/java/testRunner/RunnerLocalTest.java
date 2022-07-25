@@ -15,7 +15,7 @@ import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
 import properties.RunSettings;
 import util.DataLoad;
-//@RunWith(Cucumber.class)
+@RunWith(Cucumber.class)
 //@CucumberOptions(glue = {"testRunner.stepDefinitions"},
 //        features ={"src/test/resources/features"},
 //        tags = ("@MSP_Billing")
